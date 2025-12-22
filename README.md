@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saumy007/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/saumy007/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/saumy007/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saumy007/LeetCode-Questions/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -27,4 +29,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/saumy007/LeetCode-Questions/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/saumy007/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

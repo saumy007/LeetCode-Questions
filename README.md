@@ -14,10 +14,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/saumy007/LeetCode-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/saumy007/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/saumy007/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/saumy007/LeetCode-Questions/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/saumy007/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/saumy007/LeetCode-Questions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/saumy007/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
